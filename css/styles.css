@@ -633,10 +633,12 @@ body {
 
 }
 
-.modal-close-icon:hover,
-.modal-close-icon:focus {
+.modal-close-button:hover .modal-close-icon,
+.modal-close-button:focus .modal-close-icon {
     fill: var(--clr-white);
 }
+
+
 
 /* ========== MODAL*END ========== */
 
