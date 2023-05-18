@@ -33,6 +33,7 @@
     --clr-cornflower: #E7E9FC;
     --clr-ligt-slate: #8E8F99;
     --clr-social-bottom: #31d0aa;
+    
    
     
 
@@ -143,16 +144,7 @@ body {
     color: var(--clr-ocean);
 }
 
-.link-style-nav {
-    color: var(--clr-navy-blue);
-    padding: 24px 0;
-    display: block;
-}
 
-.link-style-nav:hover,
-.link-style-nav:focus {
-    color: var(--clr-ocean);
-}
 
 
 
@@ -543,6 +535,17 @@ body {
 
 }
 
+.link-style-nav {
+    position: relative;
+    color: var(--clr-navy-blue);
+    padding: 24px 0;
+    display: block;
+}
+
+.link-style-nav:hover,
+.link-style-nav:focus {
+    color: var(--clr-ocean);
+}
 
 /* ========== FOOTER*END ========== */
 
