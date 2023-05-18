@@ -537,7 +537,8 @@ body {
 
 .link-style-nav {
     position: relative;
-    color: var(--clr-navy-blue);
+    /* color: var(--clr-navy-blue); */
+    color: var(--clr-ocean); 
     padding: 24px 0;
     display: block;
 }
