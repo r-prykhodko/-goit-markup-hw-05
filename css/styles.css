@@ -633,10 +633,9 @@ body {
 
 }
 
-.modal-close-icon:hover, 
+.modal-close-icon:hover,
 .modal-close-icon:focus {
-    fill: #ffffff;
-
+    fill: var(--clr-white);
 }
 
 /* ========== MODAL*END ========== */
